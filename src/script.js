@@ -32,5 +32,11 @@ $(document).ready(function() {
       $(this).hide();
     });                              //Use the on() method to attach a click event handler to all <p> elements.
 
+    $("p").click(function(){
+        $(this).hide();
+      });                            //Use a jQuery method to hide a <p> element when it is clicked on.
+
+
+
 
 });
