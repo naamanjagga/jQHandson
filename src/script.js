@@ -126,6 +126,8 @@ $(document).ready(function() {
 
     $("p").css("background-color", "pink");  //Use the css() method to add a pink background color to a <p> element.
 
+    $("p").css("border", "5px dotted red");  //Use the css() method to add a 5 pixels red dotted border to a <p> element.
+
 
 
 
