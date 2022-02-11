@@ -91,6 +91,10 @@ $(document).ready(function() {
 
     $("input").val();     //Use a jQuery method to return the value of an input field.
 
+    $("a").attr("href");  //Use a jQuery method to return the URL address of a link.
+
+    $("div").text("Hello World");  //Use a jQuery method to change the text of a <div> element to "Hello World".
+
 
 
 
