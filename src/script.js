@@ -64,6 +64,10 @@ $(document).ready(function() {
 
     $("div").slideDown();           //Use a jQuery method to slide down a <div> element.
 
+    $("button").click(function(){
+       $("div").slideToggle();
+    });                             //Use a jQuery method to toggle between sliding up and down a <div> element, when clicking on a button.
+
 
 
 
