@@ -115,6 +115,8 @@ $(document).ready(function() {
 
     $("div").remove(".test, .demo");  //Use a jQuery method to remove all <div> elements with class="test" and class="demo".
 
+    $("p").addClass("important");  //Use a jQuery method to add the "important" class to a <p> element.
+
 
 
 
