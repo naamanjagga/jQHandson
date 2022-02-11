@@ -111,6 +111,8 @@ $(document).ready(function() {
 
     $("div").remove();   //Use a jQuery method to remove a <div> element.
 
+    $("div").empty();   //Use a jQuery method to only remove the child elements of a <div> element.
+
 
 
 
