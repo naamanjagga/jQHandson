@@ -87,6 +87,8 @@ $(document).ready(function() {
 
     $("div").text();      //Use a jQuery method to return the text content of a <div> element.
 
+    $("div").html();      //Use a jQuery method to return the HTML content of a <div> element.
+
 
 
 
