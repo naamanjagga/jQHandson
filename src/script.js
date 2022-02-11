@@ -83,6 +83,8 @@ $(document).ready(function() {
 
     $("div").animate({fontSize: '100px'}, "slow"); //Use the animate() method to set the font-size of a <div> element to 100 pixels:
 
+    $("div").stop();      //Use a jQuery method to stop the animation effect of a <div> element.
+
 
 
 
