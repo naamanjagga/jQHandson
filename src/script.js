@@ -95,6 +95,12 @@ $(document).ready(function() {
 
     $("div").text("Hello World");  //Use a jQuery method to change the text of a <div> element to "Hello World".
 
+    $("input").val("John Doe");  //Use a jQuery method to change the value of an input field to "John Doe".
+
+    $("img").attr("src", "myimage.jpg"); //Use a jQuery method to change the value of an image's src attribute to "myimage.jpg".
+
+    
+
 
 
 
