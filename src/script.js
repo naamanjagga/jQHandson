@@ -106,6 +106,11 @@ $(document).ready(function() {
 
 
     $("p").append("YES!");   //Use a jQuery method to insert the text "YES!" at the end of a <p> element.
+
+    $("p").prepend("YES!");  //Use a jQuery method to insert the text "YES!" at the beginning of a <p> element.
+    
+
+
     
 
 
