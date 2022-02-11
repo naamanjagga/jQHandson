@@ -50,6 +50,7 @@ $(document).ready(function() {
 
     $("div").fadeOut();              //Use a jQuery method to fade out a <div> element.
 
+    $("div").fadeOut("slow");       //Use a jQuery method to fade out a <div> element.
 
 
 
