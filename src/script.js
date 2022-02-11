@@ -128,6 +128,8 @@ $(document).ready(function() {
 
     $("p").css("border", "5px dotted red");  //Use the css() method to add a 5 pixels red dotted border to a <p> element.
 
+    $("p").css("background-color"); //Return the background color of a <p> element.
+
 
 
 
