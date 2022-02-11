@@ -99,7 +99,13 @@ $(document).ready(function() {
 
     $("img").attr("src", "myimage.jpg"); //Use a jQuery method to change the value of an image's src attribute to "myimage.jpg".
 
+    $("#myLink").text("Demo");
+    $("#myLink").attr("href", "https://www.demo.com");  /*  Use jQuery to change the text of a link to "Demo",
+
+                                                         and change the value of href's attribute value to "www.demo.com".*/
     
+
+
 
 
 
