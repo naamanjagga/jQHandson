@@ -68,7 +68,7 @@ $(document).ready(function() {
        $("div").slideToggle();
     });                             //Use a jQuery method to toggle between sliding up and down a <div> element, when clicking on a button.
 
-
+    $("div").animate({ left: '250px'});  //Use the animate() method to move a <div> element 250 pixels to the right.
 
 
 
