@@ -121,6 +121,9 @@ $(document).ready(function() {
 
     $("p").removeClass("important"); //Use a jQuery method to remove the "important" class from a <p> element.
 
+    $("p").click(function(){
+    $(this).toggleClass("important");});  //Use a jQuery method to toggle between adding and removing the "important" class from the <p> element on click
+
 
 
 
