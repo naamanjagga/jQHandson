@@ -117,6 +117,10 @@ $(document).ready(function() {
 
     $("p").addClass("important");  //Use a jQuery method to add the "important" class to a <p> element.
 
+    $("p").addClass("important test");  //Use a jQuery method to add both the "important" and "test" class to a <p> element.
+
+
+
 
 
 
