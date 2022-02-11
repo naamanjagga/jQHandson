@@ -156,3 +156,5 @@ $("span").parents();  //Use a jQuery method to get all ancestors of a <span> ele
 $("div").children();  //Use a jQuery method to get all direct children of a <div> element.
 
 $("div").find("span");  //Use a jQuery method to get all <span> elements that are descendants of <div>.
+
+$("h2").siblings(); //Use a jQuery method to get all siblings elements of an <h2> element.
