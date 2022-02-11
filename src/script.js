@@ -40,6 +40,10 @@ $(document).ready(function() {
         $(this).hide("slow");
     });                             //Use a jQuery method to hide a <p> element when it is clicked on.
 
+    $("button").click(function(){
+        $("p").show();
+    });                             //Use a jQuery method to show a <p> element.
+
 
 
 
