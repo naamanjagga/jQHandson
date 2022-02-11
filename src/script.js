@@ -140,3 +140,5 @@ $(document).ready(function() {
 });                                    //se the css() method to set the following styles for <p>:
 
 $("div").height(500).width(500);     //Use jQuery methods to set the height and width of <div> to 500 pixels.
+
+$("div").height()  //Use a jQuery method to get the height of a <div> element, excluding padding, border and margin.
