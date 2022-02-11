@@ -124,7 +124,7 @@ $(document).ready(function() {
     $("p").click(function(){
     $(this).toggleClass("important");});  //Use a jQuery method to toggle between adding and removing the "important" class from the <p> element on click
 
-
+    $("p").css("background-color", "pink");  //Use the css() method to add a pink background color to a <p> element.
 
 
 
